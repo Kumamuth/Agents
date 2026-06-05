@@ -1,6 +1,6 @@
 """MCP server exposing GitHub repository tools.
 
-Run (from project root):
+Run (from project root)  added:
     uv run github-server.py
 """
 
