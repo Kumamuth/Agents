@@ -61,7 +61,7 @@ def main() -> None:
         request = " ".join(sys.argv[1:])
     else:
         request = (
-            'Search for issues updated in the last 7 days using JQL '
+            'Search ffor issues updated in the last 7 days using JQL '
             '"updated >= -7d ORDER BY updated DESC" (limit 5). '
             "Summarize what you find."
         )
